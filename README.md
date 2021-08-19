@@ -1,2 +1,3 @@
 # bias_sensor
-bias_sensor
+基于PCA9534和水印开关的晃动传感器
+PCA9543其他5个口都有导出，可以外接其他传感器
