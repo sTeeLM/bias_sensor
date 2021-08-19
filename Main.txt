@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Data\bias_sensor\Main.PcbDoc
+Date         : 2021/8/19
+Time         : 20:57:25
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 13.843mmx29.21mm
+    Components on board, 24
+count : 2
